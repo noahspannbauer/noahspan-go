@@ -1,3 +1,3 @@
-module example.com/investment-calculator
+module example.com/structs
 
-go 1.23.1
+go 1.21.2
