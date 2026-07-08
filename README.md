@@ -1,0 +1,1 @@
+A companion repo for the Udemy course ("Go - The Complete Guide")[https://www.udemy.com/share/109Zxy3@5weOyI1zPY1wYhrd-_RWBlbsz-IdPECfz9MAMP-VcJdAKgcTfeJsDhVTi6kQt6_PDQ==/] by Maximilian Schwarzmüller.
